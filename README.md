@@ -19,7 +19,7 @@ Marvelflix é uma replica da página de filmes do netflix usando flexbox do html
 
 
 
-![](https://github.com/FernandoSena/lovegram/blob/main/img/modelo-final.png)
+![](https://github.com/FernandoSena/Marvelflix/blob/main/img/modelo-final.png)
 
 
 
